@@ -5,13 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.maxsoft.mobileautomation.android</groupId>
-    <artifactId>Android Mobile App Automation</artifactId>
+    <artifactId>Android-Mobile-App-Automation</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.11.0</version> <!-- Use latest stable version -->
                 <configuration>
                     <source>1.8</source>
                     <target>1.8</target>
